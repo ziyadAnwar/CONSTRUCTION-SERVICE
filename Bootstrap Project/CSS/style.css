@@ -1,0 +1,133 @@
+.body{
+    background-color: white;
+}
+.nav{
+    background-color: rgba(255, 238, 0, 0.827);
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar h3{
+    color:yellow;
+}
+/* .carousel-inner {
+    height: 500px;
+} */
+.carousel-inner h4 {
+    opacity: 0.7;
+
+}
+.carousel-inner h3 {
+    color:  rgba(255, 238, 0, 0.827) ;
+
+}
+.image {
+    height: 500px;
+}
+.pic {
+    width: 500px;
+    padding: 20px; 
+}
+.third h1,p {
+    padding: 10px;
+    margin-top: 10px;
+}
+.third h1 {
+    color: rgba(245, 172, 15, 0.911) ;
+}
+.why {
+    text-align: center;
+    padding-top: 150px;
+}
+.fourthh{
+    text-align: center;
+    margin-top: 60px;
+    background-color: rgb(217, 247, 238);
+}
+.fourth {
+   display: flex;
+   text-align: center;
+  margin: 50px;
+  padding: 50px;
+}
+.brands {
+   box-shadow: 5px 5px 5px 10px  rgb(255, 145, 0) ;
+   filter: blur();
+    border: 1px solid rgb(255, 145, 0) ;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.fif h1 {
+    text-align: center;
+}
+.fif h1,h3{
+    padding: 20px;
+}
+.fifth {
+  padding-right:50px ;
+    width: 500px;
+}
+.bbt {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.div{
+    background-color: rgba(255, 219, 16, 0.933) ;
+    height: 230px;
+    text-align: center;
+    padding: 20px;
+}
+
+  
+.inputbox {
+    text-align: center;
+    outline: none;
+    margin: 10px;
+    
+}
+.inputbox span{
+    position: absolute;
+    left:0px;
+    right: 0px;
+}
+.sign {
+    background-color: rgb(66, 64, 64);
+    color: antiquewhite;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.name {
+margin: 15px;
+width: 250px;
+/* margin-right: 100px; */
+}
+.footer {
+    background-image: url(../images/6.png);
+    
+
+}
+.icon {
+    background-color: rgb(255, 145, 0) ;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.footer h1,span {
+    padding-left: 10px;
+}
+.icon2  {
+   border: 3px solid ;
+   border-radius: 50%;
+   font-size: 20px;
+   padding: 10px;
+   margin: 5px;
+}
+.icon3 {
+    font-size: 20px;
+    padding: 10px;
+}
+.CONSTRUCTION {
+    color: rgb(255, 145, 0)  ;
+    font-size: 25px;
+}
